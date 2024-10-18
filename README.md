@@ -1,10 +1,15 @@
-## Hi there 👋
+## Hi, I'm Beto Oliveira! 👋
 
+
+## 🌱 Currently Learning
+
+## 🎯 Interests
+
+## 🛠️ My Skillset
+
+## 📫 How to Reach Me
+[LinkedIn](https://www.linkedin.com/in/beto-oliveira/)
 <!--
-**Betolas9/Betolas9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
